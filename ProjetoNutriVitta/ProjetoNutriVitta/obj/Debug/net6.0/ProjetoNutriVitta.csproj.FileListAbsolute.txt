@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\bin\Debug\net6.0\ProjetoNutriVitta.deps.json
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\bin\Debug\net6.0\ProjetoNutriVitta.dll
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\bin\Debug\net6.0\ProjetoNutriVitta.pdb
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.dll
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\refint\ProjetoNutriVitta.dll
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ProjetoNutriVitta.pdb
+C:\Users\User\Desktop\SENAI\SENAI-UC15-AT1\ProjetoNutriVitta\ProjetoNutriVitta\obj\Debug\net6.0\ref\ProjetoNutriVitta.dll
